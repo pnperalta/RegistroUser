@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(190, 219, 238);
+}
+
+
+#pantalla{
+    margin-top: 5%;
+    margin-left: 37%;
+}
+
+.pantalla2{
+    margin-top: 5%;
+    margin-left: -0.2%;  
+}
+
+.boton{
+    width: 30%; 
+    margin-left: 35%; 
+    margin-top: 5%;
+}
+
+
+.botones{
+    display: flex;
+    width: 50%;
+    margin-left: 24%;
+}
+.contenedor {
+    max-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 11.1%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.texto{
+    font-size: 100%;
+    margin-top: 2%;
+}
+
+h1{
+    margin-left: 33%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #021d3b;
+}
+h4{
+    margin-left: 37%;
+    font-size: 115%;
+    margin-bottom: 7%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #021d3b;
+}
+.tinicio{
+    margin-left: -6%;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+input {
+    width: 40%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    width: 95%;
+    padding: 10px;
+    margin-left: 4%;
+    margin-bottom: 5px;
+    background-color: #235eb1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #072c57;
+}
+.inicio{
+    width: 60%;
+    margin-left: 21%;
+    font-size: 110%;
+}
+.output {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+}
